@@ -12,5 +12,5 @@
 **What neobanks are we analizing data about?**
 * Revolut, N26, Monzo Bank and Bunq
 
-**Tableau visualization
+**Tableau visualization**
 https://public.tableau.com/profile/alvaro8136#!/vizhome/NeobanksTopicModeling/Dashboard1
